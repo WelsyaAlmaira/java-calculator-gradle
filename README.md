@@ -4,7 +4,7 @@
 
    ```bash
    git clone https://github.com/WelsyaAlmaira/java-calculator-gradle.git
-   cd java-calculator-gradle/calculator
+   cd java-calculator-gradle
    
 2. **Build the project**
 
